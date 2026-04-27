@@ -44,7 +44,7 @@ One of the main challenges was getting the shield timing to feel consistent and 
 ## Screenshots
 
 <img width="1592" height="891" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/79c60de8-4697-4ce9-9f68-e5df9a218d61" />
-<img width="1593" height="892" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/a49bc658-af82-4c34-a206-de2f8f9667c5" />
+<img width="1593" height="892" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/c0f7e807-8942-4321-8b6e-2bb3d9b22c29" />
 <img width="1589" height="876" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/3d29ac7c-9b54-493e-8e9a-6a956a3c8411" />
 
 
